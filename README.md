@@ -36,6 +36,12 @@
 - created class for restaurant/ reviews
 - updated stars inside the review as well
 - roger helped me finish the project with updating the stars
+## Lab 07
+
+- Start : 1pm
+- finish : 5:24 pm
+- roger helped me with my modularization 
+- created class for shop/ theater/ and a business class as a parent to other classes
 ### Notes
 
 - pair programed with Roger Reyes. He helped me a lot. He would be a perfect TA
