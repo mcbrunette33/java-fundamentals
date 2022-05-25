@@ -9,17 +9,19 @@ public class Review {
     public String body;
     public int stars;
 
-
+    public String movie;
 
     public Review(String reviewer, String body, int stars){
         this.reviewer = reviewer;
         this.body = body;
         this.stars = stars;
-
     }
+
+
     @Override
     public String toString(){
-        return "Reviewer: " + reviewer+ " "   + "body: " + body  +  ", Stars: " + stars;
+        return "Reviewer: " + reviewer+ " "   + "body: " + body  +  ", Stars: " + stars ;
+
     }
 
 }
